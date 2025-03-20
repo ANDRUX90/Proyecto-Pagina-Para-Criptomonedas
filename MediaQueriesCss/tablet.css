@@ -1,0 +1,19 @@
+.container--swap-table {
+    display: flex;
+    gap: 30px;
+}
+
+.container-product-detail {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+}
+.container-plans--slider {
+    justify-content: center;
+}
+.container-plans-offer--pay span {
+    top: 40px;
+    left: 100px;
+}
